@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="dampi.png" width="100"/>
+</div>
 # Hi there, I'm David! 👋
 
 ## 👨‍💻 Who I Am
