@@ -30,10 +30,7 @@ how do i add a stats card, i'll do it later.
 
 ## ⚡ Fun Fact
 
-[Include something unique or fun about yourself]
+- I am a D&D Dungeon Master and play it mostly with my friends. 
+- I'm German, but I live in Italy and get easly offended when people start calling me _deivid_ or _devid_ thinking i'm _British_.
 
 <!-- Proudly created by David Hermes with passion and coffee ☕ -->
-
----
-
-This version provides a more detailed look at your involvement with DOPE Aerospace, emphasizing your leadership role and the technical aspects of your work. It also subtly integrates your low-level programming skills throughout the project descriptions.
