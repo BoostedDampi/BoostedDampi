@@ -23,6 +23,8 @@ As a dedicated Computer Science student in my final semester, I'm deeply immerse
 
 ![BoostedDampi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoostedDampi&theme=vue-dark&hide_border=true)
 
+![BoostedDampi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoostedDampi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 📫 Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/david-hermes-46168226a
