@@ -1,11 +1,10 @@
 <div id="header" align="center">
   <img src="dampi.png" width="100"/>
+  <h1>
+    hey there, i'm David
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
-
-<h1>
-  hey there, i'm David
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ## 👨‍💻 Who I Am
 As a dedicated Computer Science student in my final semester, I'm deeply immersed in coding and computer science. Based in Genova, Italy, my journey in tech has led me to proficiency in Python, C++, C, Java, and OCaml. Currently, I'm focused on mastering Rust.
