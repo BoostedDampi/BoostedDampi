@@ -21,7 +21,7 @@ As a dedicated Computer Science student in my final semester, I'm deeply immerse
 
 ## 📊 GitHub Stats
 
-how do i add a stats card, i'll do it later.
+![BoostedDampi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoostedDampi&theme=vue-dark&hide_border=true)
 
 ## 📫 Reach Me
 
