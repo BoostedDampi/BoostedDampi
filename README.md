@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="dampi.png" width="100"/>
+  <img src="dampi.png" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/david-hermes-46168226a">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
