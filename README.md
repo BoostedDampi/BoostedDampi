@@ -32,11 +32,8 @@ As a dedicated Computer Science student in my final semester, I'm deeply immerse
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-  ![BoostedDampi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoostedDampi&theme=vue-dark&hide_border=true)
-
-  ![BoostedDampi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoostedDampi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoostedDampi&theme=vue-dark&hide_border=true" alt="LinkedIn Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoostedDampi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="LinkedIn Badge"/>  
 <\div>
 ## 📫 Reach Me
 
