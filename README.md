@@ -27,7 +27,7 @@ As a dedicated Computer Science student in my final semester, I'm deeply immerse
 ## 📈 Current Projects
 
 - **DOPE Aerospace's Systems & Avionics**: As Team Leader, I'm deeply involved in the development of advanced Arduino-based flight controll systems for aerospace applications. My role encompasses designing and programming intricate sensor networks and wireless communication systems, essential for the real-time monitoring and control of aerospace equipment. [DOPE Aerospace LinkedIn](https://www.linkedin.com/company/dope-aerospace-unige/)
-- **Linux Utility Stack in Rust**: Reimplementing common Linux utilities in Rust to deepen understanding of it's working and learning the linguage.
+- **Linux Utility Stack in Rust**: Reimplementing common Linux utilities in Rust to deepen understanding of it's working and learning the language.
 - **Beehive Monitoring System**: Developing a real-time monitoring system for beehives, integrating sensor data for health and productivity analysis with automated alert systems.
 
 ## 📊 GitHub Stats
