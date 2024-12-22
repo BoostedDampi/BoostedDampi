@@ -43,7 +43,6 @@ As a dedicated Computer Science student in my final semester, I'm deeply immerse
 
 ## ⚡ Fun Fact
 
-- I am a D&D Dungeon Master after two homebrew campaigns i'm now dming Curse of Stradh. 
 - I'm German, but I live in Italy and get easly offended when people start calling me _deivid_ or _devid_ thinking i'm _British_.
 
 <!-- Proudly created by David Hermes with passion and chatGPT <3 -->
